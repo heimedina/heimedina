@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heimedina
-- 👀 I’m passionate about programming,  Exploring the intersection of backend efficiency and database optimization with MySQL.
-- 🌱 I’m currently learning to build scalable web applications with Java and Spring Boot.
+- 👀 I’m passionate about programming.
+- 🌱 I’m currently learning to build scalable web applications with Java and Spring Boot, exploring the intersection of backend efficiency and database optimization with MySQL.
 - 💞️ I can't deny that, even though my mind is drawn to hardware, I’m far more passionate about software.
 - 📫 Hit me up at heidimedina23@gmail.com
 
