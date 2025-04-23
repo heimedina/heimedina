@@ -6,12 +6,14 @@
 <br>
 
 ## Mis Repositorios
-- Proyecto Java de heroes vs. bestias: https://github.com/heimedina/Batalla-Heroes-vs.-Bestias
-- Inyeccion de dependencias: https://github.com/heimedina/InyectionDepedencies
-- Persona BackEnd: https://github.com/heimedina/PersonaBackEnd
+
+- [Proyecto Java de heroes vs bestias](https://github.com/heimedina/Batalla-Heroes-vs.-Bestias) 
+- [Inyeccion de dependencias](https://github.com/heimedina/InyectionDepedencies)
+- [Persona BackEnd](https://github.com/heimedina/PersonaBackEnd)
 <br>
 
 ## Mis Estadísticas en GitHub
+[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=heimedina&show_icons=true&theme=highcontrast)](https://github.com/heimedina/github-readme-stats)
 
 ## 
 #### 💞️ I can't deny that, even though my mind is drawn to hardware, I’m far more passionate about software. / Aunque mi mente se siente atraída por el hardware, me apasiona mucho más el software.
